@@ -17,7 +17,7 @@ Open to **remote junior and internship roles** in ML, AI and computer vision.
 
 ---
 
-## Undergraduate thesis — SmartAssist
+## Undergraduate thesis — PothPradasshak
 
 **A Real-Time AI Object Detection and Navigation Assistance System for Visually Impaired People**
 
@@ -36,7 +36,7 @@ No accuracy, mAP or FPS numbers are quoted on this profile because the model has
 
 ## Selected projects
 
-**[POS-System](https://github.com/NahiduzzamanDipu/POS-System)** — Django · Python · SQL
+**[POS-System](https://github.com/NahiduzzamanDipu/POS.git)** — Django · Python · SQL
 Point-of-sale system covering the full retail counter workflow: product search, cart, discounts, tax, payment, invoicing and live inventory updates, with role-based access for administrators, managers, cashiers and inventory staff. Bulk product import from CSV/Excel, customer lookup by phone, server-rendered sales reports. Runs on SQLite or MySQL and ships with a test suite.
 
 **[bachelor-meal-management-system](https://github.com/NahiduzzamanDipu/bachelor-meal-management-system)** — React · Node.js · Express · MongoDB
