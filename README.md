@@ -11,6 +11,7 @@ I build practical web applications and AI-powered tools, from the model and back
 
 [![GitHub](https://img.shields.io/badge/GitHub-NahiduzzamanDipu-181717?style=for-the-badge&logo=github)](https://github.com/NahiduzzamanDipu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdnahiduzzamandipu)
+[![Website](https://img.shields.io/badge/Website-Visit%20Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mdnahiduzzaman-dipu.pages.dev/)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdnahiduzzamandipu@gmail.com)
 
 </div>
