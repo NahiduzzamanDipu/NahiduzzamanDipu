@@ -1,65 +1,73 @@
+<!-- Profile README for github.com/NahiduzzamanDipu -->
+
+<div align="center">
+
 # MD Nahiduzzaman Dipu
 
-**Machine Learning · Computer Vision · Python**
+### Recent Computer Science & Engineering Graduate
+**Software Developer · Machine Learning · Computer Vision**
 
-Final-year Computer Science & Engineering student at Green University of Bangladesh, moving into machine learning and computer vision engineering. I work in Python with PyTorch, YOLO and OpenCV, and I build the software around the model too — Django and Node.js services, SQL, and setup that runs on someone else's machine.
+I build practical web applications and AI-powered tools, from the model and backend to the user interface.
 
-Open to **remote junior and internship roles** in ML, AI and computer vision.
+[![GitHub](https://img.shields.io/badge/GitHub-NahiduzzamanDipu-181717?style=for-the-badge&logo=github)](https://github.com/NahiduzzamanDipu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdnahiduzzamandipu)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdnahiduzzamandipu@gmail.com)
 
----
-
-## Current focus
-
-- **Object detection** — YOLO and PyTorch, real-time inference on video
-- **Computer vision** — image and video pipelines with OpenCV
-- **Classical ML** — scikit-learn, NumPy, pandas, Matplotlib
-- **Around the model** — Python services, SQL, reproducible setup
+</div>
 
 ---
 
-## Undergraduate thesis — PothPradasshak
+## About me
 
-**A Real-Time AI Object Detection and Navigation Assistance System for Visually Impaired People**
+I’m a recent Computer Science & Engineering graduate from **Green University of Bangladesh**, based in Bangladesh. I enjoy turning real-world problems into dependable, usable software—especially full-stack products, applied machine learning, and computer vision.
 
-A camera-based system that detects obstacles and objects in a user's path and gives spoken navigation guidance in **Bengali and English**, aimed at everyday Bangladeshi street conditions.
+I work across the stack: designing interfaces and APIs, building data-backed services, and integrating AI features into complete applications. I’m interested in **junior software engineering, full-stack development, machine learning, and computer vision opportunities**.
 
-| | |
+## Skills
+
+| Area | Technologies |
 |---|---|
-| Approach | YOLO object detection over a live camera stream |
-| Stack | Python, PyTorch, YOLO, OpenCV |
-| Output | Navigation decision logic + text-to-speech guidance (Bengali / English) |
-| Status | **In development** — source code and evaluation will be published here once thesis experimentation is complete |
-
-No accuracy, mAP or FPS numbers are quoted on this profile because the model has not been formally evaluated yet. They will be added when they exist.
-
----
+| **Languages** | Python · JavaScript · TypeScript · SQL · HTML · CSS |
+| **Frontend** | React · Vite · Tailwind CSS |
+| **Backend** | Django · Django REST Framework · Node.js · Express · Flask |
+| **AI & computer vision** | PyTorch · YOLO · OpenCV · scikit-learn · NumPy · pandas |
+| **Data & realtime** | MySQL · MongoDB · Socket.IO |
+| **Tools** | Git · GitHub · Docker · Jupyter · Google Colab |
 
 ## Selected projects
 
-**[POS-System](https://github.com/NahiduzzamanDipu/POS.git)** — Django · Python · SQL
-Point-of-sale system covering the full retail counter workflow: product search, cart, discounts, tax, payment, invoicing and live inventory updates, with role-based access for administrators, managers, cashiers and inventory staff. Bulk product import from CSV/Excel, customer lookup by phone, server-rendered sales reports. Runs on SQLite or MySQL and ships with a test suite.
+### [TurfBari](https://github.com/NahiduzzamanDipu/turfbari)
+**Turf management and discovery platform for Bangladesh**  
+A full-stack SaaS product for turf owners and players, with turf discovery, slot booking, payments, subscriptions, operations dashboards, and reporting.
 
-**[bachelor-meal-management-system](https://github.com/NahiduzzamanDipu/bachelor-meal-management-system)** — React · Node.js · Express · MongoDB
-Full-stack app for managing a shared mess: meal entries, bazar costs, per-member meal rate, balances, group management and reports. JWT auth, bcrypt password hashing, Docker Compose setup.
+**Built with:** Django REST Framework · React · TypeScript · MySQL
 
-**[my-portfolio](https://github.com/NahiduzzamanDipu/my-portfolio)** — HTML · CSS · JavaScript
-Personal portfolio site and the front-end work behind it.
+### [CitizenCare](https://github.com/NahiduzzamanDipu/CitizenCare)
+**Public safety and incident response platform**  
+Connects citizen incident reports with police and admin portals. Includes live updates, map-based reports, SOS workflows, and a computer-vision service for camera-based weapon alerts.
 
----
+**Built with:** React · Node.js · Express · MongoDB · Socket.IO · Python · Flask · YOLOv8
 
-## Tech stack
+### [PothPradarshak](https://github.com/NahiduzzamanDipu/PothPradarshak)
+**Computer-vision navigation assistance prototype**  
+A thesis project that detects obstacles from live camera and uploaded media, then provides spoken guidance in Bengali and English. The repository documents the model’s measured results and current limitations.
 
-**Machine learning** &nbsp;Python · scikit-learn · NumPy · pandas · Matplotlib
-**Deep learning** &nbsp;PyTorch · YOLO
-**Computer vision** &nbsp;OpenCV · object detection
-**Backend & data** &nbsp;Django · Node.js · Express · MySQL · MongoDB · SQL
-**Front-end** &nbsp;JavaScript · React · HTML · CSS
-**Tools** &nbsp;Git · GitHub · VS Code · Jupyter · Google Colab
+**Built with:** Python · YOLO · OpenCV · PyTorch
 
----
+### [O'dell Tech POS](https://github.com/NahiduzzamanDipu/pos_system_odelltech)
+**Role-based point-of-sale and inventory system**  
+A retail workflow covering checkout, payments, invoices, stock management, returns, customer records, employee access, and sales reports.
+
+**Built with:** Python · Django · MySQL · JavaScript
+
+## What I’m working toward
+
+- Building maintainable, user-focused software from idea through delivery
+- Applying machine learning and computer vision to practical problems
+- Growing as a software engineer and collaborating with product-minded teams
 
 ## Contact
 
-- **LinkedIn** — [in/mdnahiduzzamandipu](https://www.linkedin.com/in/mdnahiduzzamandipu)
-- **Email** — mdnahiduzzamandipu@gmail.com
-- Based in Bangladesh, working remotely
+- **Email:** [mdnahiduzzamandipu@gmail.com](mailto:mdnahiduzzamandipu@gmail.com)
+- **LinkedIn:** [mdnahiduzzamandipu](https://www.linkedin.com/in/mdnahiduzzamandipu)
+- **Location:** Bangladesh · Open to remote opportunities
